@@ -1,0 +1,15 @@
+First run 
+    npm install 
+to install al dependencies then run program
+
+To run this program you should type 
+    node app.js  or
+    nodemon app.js
+
+Why app.js?
+app.js is entry point of this program.
+
+Test Case:
+Mocha and Except is used to pass the test case
+To check all test case is passed sucessfully you should run
+    npm run monitor-test

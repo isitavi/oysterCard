@@ -1,0 +1,17 @@
+{
+  "name": "oystercard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha",
+    "monitor-test": "nodemon --exec 'npm test'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0"
+  }
+}
